@@ -7,7 +7,7 @@ An automated watering system is such a system that starts watering to plants by 
 ```
 
 ## Circuit Diagram
-![Image](circuit.jpeg)
+![Image](circuit.jpg)
 ### Project Code
 
 ```
