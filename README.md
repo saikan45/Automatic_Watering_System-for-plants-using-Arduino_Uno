@@ -31,8 +31,7 @@ else
 motor.run(RELEASE);
 }
 ```
-### Project Viedo: Good quality Viedo
-https://www.youtube.com/watch?v=l9Tq66V6m7Q
+### Project Viedo: Good quality Viedo(https://www.youtube.com/watch?v=l9Tq66V6m7Q)
 
 ## Project Description Link: https://create.arduino.cc/projecthub/Saikan45/automated-watering-plant-f853d8?ref=user&ref_id=1150184&offset=0
 
